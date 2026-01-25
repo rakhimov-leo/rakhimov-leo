@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rakhimov-leo/rakhimov-leo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 # Hi there, I'm Leo (Navruz) 👋
 ### 🚀 Fullstack & DevOps Engineer
 
@@ -48,4 +45,7 @@
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=rakhimov-leo&show_icons=true&theme=dark&hide_border=true" alt="Leo's GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhimov-leo&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rakhimov-leo/rakhimov-leo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
