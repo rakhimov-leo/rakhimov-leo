@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3Msy8YNXP4AeAV/giphy.gif" width="200">
-</p>
 # Hi there, I'm Leo (Navruz) 👋
 ### 🚀 Fullstack & DevOps Engineer
 
