@@ -47,5 +47,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhimov-leo&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rakhimov-leo/rakhimov-leo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rakhimov-leo/rakhimov-leo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
