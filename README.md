@@ -39,12 +39,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakhimov-leo&theme=dracula&hide_border=true" alt="Leo's Activity Graph" />
 </p>
 
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Fullstack+Developer;DevOps+Engineer;AI-OCR+Expert;Technical+Planner" alt="Typing SVG" />
-</p>
-
----
-
 ### 🐍 GitHub Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/rakhimov-leo/rakhimov-leo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
