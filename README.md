@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rakhimov-leo/rakhimov-leo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 # Hi there, I'm Leo (Navruz) 👋
 ### 🚀 Fullstack & DevOps Engineer
 
