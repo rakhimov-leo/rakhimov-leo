@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Fullstack+Developer;DevOps+Engineer;AI-OCR+Expert;Technical+Planner" alt="Typing SVG" />
+</p>
 # Hi there, I'm Leo (Navruz) 👋
 ### 🚀 Fullstack & DevOps Engineer
 
