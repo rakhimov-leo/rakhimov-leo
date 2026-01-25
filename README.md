@@ -5,15 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Fullstack+Developer;DevOps+Engineer;AI-OCR+Expert;Technical+Planner" alt="Typing SVG" />
 </p>
 
----
-
-### 🐍 GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rakhimov-leo/rakhimov-leo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 🛠 Tech Stack
 
 #### 🌐 Front-End
@@ -41,7 +32,7 @@
 
 ---
 
-### 🎓 Education & Status
-* 🏫 **Master's Degree**: Design and Manufacture, JBNU (2023-2024)
-* 🏫 **Master's Degree**: Business, Hanil University (2018-2021)
-* 🛂 **Visa**: D-10 Job Seeker Visa (구직활동비자)
+### 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rakhimov-leo/rakhimov-leo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
