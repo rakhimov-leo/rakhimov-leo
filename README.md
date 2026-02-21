@@ -1,5 +1,5 @@
 # Hi there, I'm Leo (Navruz) 👋
-### 🚀 Fullstack & DevOps Engineer
+### 🚀 Full-Stack & DevOps Engineer at K-PLUS Company
 
 ---
 
