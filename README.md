@@ -40,9 +40,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rakhimov-leo&show_icons=true&theme=dark&hide_border=true" alt="Leo's GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhimov-leo&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
