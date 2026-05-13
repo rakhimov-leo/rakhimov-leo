@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="180px"/>
+![programming](./undraw_programming_j1zw.svg)
 
 # Hi there, I'm Leo (Navruz) 👋
 
@@ -37,9 +37,9 @@
 
 <div align="center">
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhimov-leo&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhimov-leo&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rakhimov-leo.rakhimov-leo)
 
 ⭐ *"Code is poetry — write it beautifully."* ⭐
 
