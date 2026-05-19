@@ -10,7 +10,7 @@
 
 ---
 
-### 🚀 Full-Stack & DevOps Engineer
+### 🚀 Full-Stack & DevOps Engineer and AI Engineer
 
 ---
 
@@ -32,19 +32,6 @@
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> | <img src="https://img.echosting.cafe24.com/skin/base_ko_KR/layout/logo_cafe24.png" alt="cafe24" height="40"/> |
 
 ---
-
-### 📊 GitHub Stats:
-
-<div align="center">
-
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhimov-leo&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhimov-leo&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 <div align="center">
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rakhimov-leo.rakhimov-leo)
