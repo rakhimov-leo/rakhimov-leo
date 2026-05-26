@@ -12,7 +12,7 @@
 
 ### 🚀 Full-Stack & DevOps Engineer and AI Engineer
 
-------
+-------
 
 ### 🛠 Languages and Tools:
 #### 🌐 Front-End
