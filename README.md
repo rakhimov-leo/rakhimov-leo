@@ -17,7 +17,7 @@
 - ⚡ Daily driver: **TypeScript + Node.js + Docker**
 - 🐧 I live in the terminal — Linux & Nginx are home
 - 💬 Ask me about **React, Next.js, NestJS, CI/CD**
-- 📫 Reach me: **your@email.com**
+- 📫 Reach me: **naraleo7632@gmail.com**
 
 </td>
 <td width="45%" valign="top">
