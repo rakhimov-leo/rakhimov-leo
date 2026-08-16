@@ -98,16 +98,6 @@
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![snake gif](https://raw.githubusercontent.com/rakhimov-leo/rakhimov-leo/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🤝 Connect with me
 
 <div align="center">
