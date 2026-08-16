@@ -71,20 +71,38 @@
 
 ---
 
-## 📊 GitHub Stats
+## 💼 What I Work With
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="ts"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="react"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="next"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="nest"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="node"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pg"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongo"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="nginx"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="linux"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|:---|:---|:---|
+| [**reja1**](https://github.com/rakhimov-leo/reja1) | Short one-line description here | `Next.js` `Node.js` |
+| **Project Two** | Short one-line description here | `React` `NestJS` |
+| **Project Three** | Short one-line description here | `Python` `Docker` |
+
+---
+
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakhimov-leo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakhimov-leo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=rakhimov-leo&theme=tokyonight&hide_border=true" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rakhimov-leo&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
+![snake gif](https://raw.githubusercontent.com/rakhimov-leo/rakhimov-leo/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
